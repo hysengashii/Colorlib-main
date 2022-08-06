@@ -334,18 +334,7 @@ section .top-selling .cmimi i:last-child{
     color: #bbbaba;
 }
 
-section .box span::after{
-    width: 240px;
-    content: "";
-    position: absolute;
-    top:50%;
-    left: -120%;
-    right: 100%;
-    height: 1px;
-    background-color: #bbbaba;
-    z-index: -1;
-    
-}
+
 section .box span i{
     color: var(--red);
 }
@@ -403,8 +392,6 @@ section .box:hover .display-none{
     background-color: #333;
     padding: 15px 70px; 
 }
-
-
 /* Mbarimi i Butonit ADD CART */
 
 
@@ -633,9 +620,6 @@ footer .visa h6{
     grid-template-columns: repeat(3, 1fr);
     }
 
-
-    
-    
     /* Section box-header */
     section .box-header {
         display: flex;
