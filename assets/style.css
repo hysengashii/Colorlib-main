@@ -594,7 +594,7 @@ footer .visa span{
     font-size: 40px;
     opacity: 0.3;
 }
-footer .visa i,{
+footer .visa i{
     padding: 0 5px;
     cursor: pointer;
 }
@@ -651,9 +651,7 @@ footer .visa h6{
         display: flex;
         flex-direction: row;
     }
-    section .slideri{
-        
-    }
+    
     section .hidden{
         display: none;
     }
